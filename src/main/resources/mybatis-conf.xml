@@ -1,0 +1,8 @@
+<configuration>
+    <typeAliases>
+        <package name="com.seungma.springvoicemarket"/>
+    </typeAliases>
+    <mappers>
+        <mapper resource="demo.xml"/>
+    </mappers>
+</configuration>

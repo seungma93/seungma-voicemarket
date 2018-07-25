@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://seungma.c63pafhlxzsv.ap-northeast-2.rds.amazonaws.com/voicemarket
+    username: seungma
+    password: 201216821
+    mybatis:
+      config-location: classpath:mybatis-conf.xml
